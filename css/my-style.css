@@ -7,6 +7,13 @@ h1 {
 	text-align: center;
 }
 
+#stripe {
+	background-color: #fff;
+	color: black;
+	height: 30px;
+	text-align: center;	
+}
+
 .container {
 	max-width: 600px;
 	margin: 0 auto;
